@@ -1,0 +1,9 @@
+{
+  "name": "gatsby-acsauk",
+  "version": "1.0.0",
+  "description": "A gatsby blog/CV",
+  "main": "index.js",
+  "author": "Alex Saunders",
+  "license": "MIT",
+  "private": false
+}
